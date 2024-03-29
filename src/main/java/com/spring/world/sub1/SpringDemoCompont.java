@@ -7,7 +7,7 @@ public class SpringDemoCompont {
 	
 	public String getWelcomeDetails() {
 		
-		return "HI Hero";
+		return "HI Hero Main";
 	}
 
 }
